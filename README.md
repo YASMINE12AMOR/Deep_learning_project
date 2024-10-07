@@ -14,7 +14,8 @@ where (x1,y1) denotes the top-left coordinate of the bounding box, (x2,y2) denot
 ### Visualization results
 
 ![image](https://github.com/chaozhong2010/VHR-10_dataset_coco/blob/master/pictures/Figure_1.png)
-![image](https://github.com/chaozhong2010/VHR-10_dataset_coco/blob/master/pictures/Figure_2.png)
+![image](https://github.com/chaozhong2010/VHR-10_dataset_coco/blob/master/pictures/Figure_3.png)
+![image](https://github.com/chaozhong2010/VHR-10_dataset_coco/blob/master/pictures/Figure_4.png)
 
 ### Acknowledgement
 
